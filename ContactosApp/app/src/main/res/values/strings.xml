@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+    <string name="pablo_blanco">Pablo Blanco</string>
+    <string name="titulo_nuevo">Nuevo contacto</string>
+    <string name="titulo_switch">Cambiar vista</string>
+    <string name="titulo_search">Buscar contacto...</string>
+    <string name="claudia_moreno">Claudia Moreno</string>
+    <string name="puesto">Funcionaria</string>
+    <string name="edad">Edad</string>
+    <string name="peso">Peso</string>
+    <string name="telefono">Teléfono</string>
+    <string name="edad_detalle">35 Años</string>
+    <string name="peso_detalle">52.3 Kg</string>
+    <string name="telf_detalle">628549317</string>
+    <string name="email_detalle">Email</string>
+    <string name="direccion_detalle">Dirección</string>
+    <string name="claudia_gmail_com">claudia@gmail.com</string>
+    <string name="paseo_la_habana_145">Paseo La Habana, 145</string>
+    <string name="ImagenPerfil">Imagen de perfil</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellido</string>
+    <string name="empleo">Empleo</string>
+    <string name="empresa">Empresa</string>
+    <string name="editar_contacto">Editar contacto</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
